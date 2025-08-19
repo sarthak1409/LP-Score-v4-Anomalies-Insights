@@ -1,10 +1,8 @@
-README - Dataset Information
-
 The dataset used in this project is not included in the repository due to its large size.
 
 Dataset Details:
 ----------------
-- Rows: ~44,975
+- Rows: 44,975
 - Columns: 396
 - Data Type: Wallet-level LP (Liquidity Provider) scoring data
 
