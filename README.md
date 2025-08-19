@@ -23,7 +23,6 @@ The project deliverables included:
 ├── dataset/                       # Raw dataset (wallet-level LP scoring data)
 ├── anomalies_csv/                 # Exported anomalies (wallet_id, pool_id, reason)
 ├── lp_score_analysis.ipynb        # Main Jupyter Notebook (analysis + plots)
-├── zeru_pdf.pdf                   # Problem statement (assignment spec)
 ├── README.md                      # Project description and usage guide
 └── requirements.txt               # Python dependencies
 ```
